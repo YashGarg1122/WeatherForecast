@@ -22,7 +22,7 @@ A weather forecasting application built with Python using the OpenWeatherMap API
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/weatherOcast.git
+    git clone https://github.com/YashGarg1122/WeatherForecast.git
     ```
 
 2. Install the required dependencies:
@@ -50,9 +50,6 @@ A weather forecasting application built with Python using the OpenWeatherMap API
 - Enter the city name and hit the "Search" button or press Enter.
 - The weather information for the entered city will be displayed on the GUI, including temperature, feels like temperature, pressure, humidity, wind speed, sunrise, and sunset times.
 
-## Screenshots
-
-![Weather App Screenshot](link_to_screenshot)
 
 ## License
 
